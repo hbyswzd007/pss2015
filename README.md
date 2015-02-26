@@ -1,5 +1,8 @@
 # pss2015
-* When you come to classroom, Follow the [INSTALL](https://github.com/jirlong/pss2015/blob/master/Lectures/C1-InstallingDevelopmentEnvironments.pdf) instruction to install Enthought Canopy and try to check ipython notebook workable or not.
+
+## Next week
+* Must[INSTALL](https://github.com/jirlong/pss2015/blob/master/Lectures/C1-InstallingDevelopmentEnvironments.pdf) Enthought Canopy.
+
 
 ## Links
 * [Syllabus](https://docs.google.com/document/d/1Ff4Bzufrc-kw40OQmUQsSwE5cPKdQH3e0Uh4VL_E9Fo/edit?usp=sharing)

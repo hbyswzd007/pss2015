@@ -1,6 +1,6 @@
 # pss2015
 * 若你認為有部分聽不懂，目前都不需要擔心，只要你確定那個「數水果」的範例你有聽懂就好。
-* * 紙上的練習，print或sorted的部分看不懂也沒關係，那個還沒教，單純給各位嘗試用「依此類推」的方法，感受一下怎麼模仿別人寫程式。
+* 紙上的練習，print或sorted的部分看不懂也沒關係，那個還沒教，單純給各位嘗試用「依此類推」的方法，感受一下怎麼模仿別人寫程式。
 ## Next week
 * Must [INSTALL](https://github.com/jirlong/pss2015/blob/master/Lectures/C1-InstallingDevelopmentEnvironments.pdf) Enthought Canopy.
 

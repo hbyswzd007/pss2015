@@ -18,3 +18,4 @@
 
 # Calendar
 * 0227 rundown - http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/pss_index.ipynb
+* 0227 foreach problem - http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/pss0227_foreach.ipynb

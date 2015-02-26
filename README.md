@@ -1,7 +1,7 @@
 # pss2015
 
 ## Next week
-* Must[INSTALL](https://github.com/jirlong/pss2015/blob/master/Lectures/C1-InstallingDevelopmentEnvironments.pdf) Enthought Canopy.
+* Must [INSTALL](https://github.com/jirlong/pss2015/blob/master/Lectures/C1-InstallingDevelopmentEnvironments.pdf) Enthought Canopy.
 
 
 ## Links

@@ -15,6 +15,12 @@
 * [ipython notebook](http://nbviewer.ipython.org/github/ipython/ipython/tree/1.x/examples/notebooks/)
 * [My Diigo Outliner: Python](https://www.diigo.com/outliner/1q0y6n/python?key=m0q5lam5b6)
 * [Lectures of last semester](https://www.dropbox.com/sh/ze5myvqryhygucr/AAAHptjsqkGDCNhB1POyorN0a?dl=0)
+* Visualization resources: Visualizing by ipython notebook and other javascript library
+  * google fusion table
+  * google chart API
+  * [plot.ly](https://plot.ly/) - Using d3.js for visualization on ipython
+  * [d3.js on nbviwer](http://nbviewer.ipython.org/github/fperez/talk-strata-sc2014/blob/master/d3%20in%20the%20notebook.ipynb)
+  * [highCharts on nbviewer](http://nbviewer.ipython.org/github/gtnx/pandas-highcharts/blob/master/example.ipynb)
 
 # Calendar
 * 0227 [rundown](http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/pss_index.ipynb)

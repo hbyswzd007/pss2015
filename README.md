@@ -23,5 +23,6 @@
   * [highCharts on nbviewer](http://nbviewer.ipython.org/github/gtnx/pandas-highcharts/blob/master/example.ipynb)
 
 # Calendar
-* 0227 [rundown](http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/pss_index.ipynb)
-* 0227 [foreach problem](http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/pss0227_foreach.ipynb)
+* [All ipynb(s) run by nbviwer](http://nbviewer.ipython.org/github/jirlong/pss2015/tree/master/ipynb/)
+* 0227 [rundown](http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/ipynb/pss_index.ipynb)
+* 0227 [foreach problem](http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/ipynb/pss0227_foreach.ipynb)

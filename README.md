@@ -19,7 +19,7 @@
   * google fusion table
   * google chart API
   * [plot.ly](https://plot.ly/) - Using d3.js for visualization on ipython
-  * [d3.js on nbviwer](http://nbviewer.ipython.org/github/fperez/talk-strata-sc2014/blob/master/d3%20in%20the%20notebook.ipynb)
+  * [d3.js on nbviwer](http://nbviewer.ipython.org/github/fperez/talk-strata-sc2014/blob/master/d3%20in%20the%20notebook.ipynb), [d3.js examples](http://biovisualize.github.io/d3visualization/)
   * [highCharts on nbviewer](http://nbviewer.ipython.org/github/gtnx/pandas-highcharts/blob/master/example.ipynb)
 
 # Calendar

@@ -29,4 +29,7 @@
 * 0227 [foreach problem](http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/ipynb/pss0227_foreach.ipynb)
 * [Practice0227](http://form.jotform.me/form/50623030711439) If you cannot submit practice0227 to moodle2.ntnu.edu.tw, please re-upload it here.
 ##0305
-* [Practice0305](http://) For those visitors who cannot submit to moodle2.
+* [Practice0305](http://form.jotform.me/form/50623293585459) For those visitors who cannot submit to moodle2.
+ 1. Upload the json
+ 2. Create a text file to state the hyperlink of the data source, and describe the data.
+ 3. If a data field table is provided on the open data site, upload the description of data field also.

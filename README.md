@@ -1,9 +1,6 @@
 # pss2015
-* 若今天課程有部分聽不懂，目前都不需要擔心，只要你確定那個「數水果」的範例你有聽懂就好。
-* 紙上的練習，print或sorted的部分看不懂也沒關係，那個還沒教，單純給各位嘗試用「依此類推」的方法，感受一下怎麼模仿別人寫程式。
-* 若要下載當週課程內容，請按右下角的download，並在自己的電腦以ipython notebook執行（目前尚未更新）
-* 若要直接在網路上看今天的上課內容，請點選下面的Calendar。
-* 因為同一上課時間Mac教室被借用，故無法更換。
+* 若要下載當週課程內容，請按右下角的download，並在自己的電腦以ipython notebook執行
+* 旁聽與外校選課生無法繳交作業到moodle2平台上時，請利用下方Calendar的作業上傳功能，一般修課生請勿使用。
 
 # Next week
 * Must [INSTALL](https://github.com/jirlong/pss2015/blob/master/Lectures/C1-InstallingDevelopmentEnvironments.pdf) Enthought Canopy.

@@ -23,6 +23,10 @@
   * [highCharts on nbviewer](http://nbviewer.ipython.org/github/gtnx/pandas-highcharts/blob/master/example.ipynb)
 
 # Calendar
+##0227
 * [All ipynb(s) run by nbviwer](http://nbviewer.ipython.org/github/jirlong/pss2015/tree/master/ipynb/)
 * 0227 [rundown](http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/ipynb/pss_index.ipynb)
 * 0227 [foreach problem](http://nbviewer.ipython.org/github/jirlong/pss2015/blob/master/ipynb/pss0227_foreach.ipynb)
+* [Practice0227](http://form.jotform.me/form/50623030711439) If you cannot submit practice0227 to moodle2.ntnu.edu.tw, please re-upload it here.
+##0305
+* [Practice0305](http://) For those visitors who cannot submit to moodle2.
